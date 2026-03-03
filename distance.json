@@ -1,0 +1,21 @@
+{
+  "brazil": {
+    "cities": ["São Paulo", "Rio de Janeiro"],
+    "driving_distance_km": {
+      "sao_paulo_to_rio_de_janeiro": 434.919,
+      "rio_de_janeiro_to_sao_paulo": 433.292,
+      "approximate_rounded": 434
+    }
+  },
+  "usa": {
+    "cities": ["New York City", "Los Angeles"],
+    "driving_distance_km": {
+      "new_york_to_los_angeles": 4489.189,
+      "los_angeles_to_new_york": 4488.847,
+      "approximate_rounded": 4489
+    }
+  },
+  "comparison": {
+    "is_usa_distance_higher": true
+  }
+}
